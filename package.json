@@ -1,0 +1,22 @@
+{
+  "name": "windsrpg",
+  "version": "1.0.0",
+  "description": "WindsRPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pominuse/WindsRPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pominuse/WindsRPG/issues"
+  },
+  "homepage": "https://github.com/Pominuse/WindsRPG#readme",
+  "dependencies": {
+    "webpack": "^3.10.0"
+  }
+}

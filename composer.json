@@ -1,0 +1,17 @@
+{
+    "name": "windsrpg/windsrpg",
+    "authors": [
+        {
+            "name": "Pominus",
+            "email": "pominuseventguard@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/PHP/Framework"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^7.0"
+    }
+}
