@@ -1,3 +1,4 @@
 <?php
 
-echo 'Bonjour';
+require '../vendor/autoload.php';
+
